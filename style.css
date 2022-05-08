@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* body{
+    
+} */
+
+#nav-section{
+    font-family: 'Roboto', sans-serif;
+    background-color: #F0FFF0;
+}
+
+.sign-in{
+    background-color: #21B573;
+    border-radius: 33px;
+    width: 104px;
+    height: 43px;
+}
+
+.info{
+    font-family: 'Poppins', sans-serif;
+}
+
+.learn{
+    color: #FD511A;
+}
+
+.fun{
+    font-size: 48px;
+}
+
+.schedule{
+    color: #21B573;
+}
+
+.get-start{
+    background-color: #21B573;
+    border-radius: 33px;
+    width: 153px;
+    height: 43px;
+}
+
+#topic{
+    font-family: 'Poppins', sans-serif;
+}
+
+#topic img{
+    width: 66px;
+    height: 85px;
+}
+
+#topic .col{ 
+    border-radius: 10px;
+    box-shadow: 0px 20px 40px 0px rgba(0, 0, 0, 0.1);
+}
+
+#topic .bg{
+    background-color: #F8FFFB;
+}
+
+#topic h4{
+    font-size: 22px;
+    font-weight: 600;
+    padding-top: 20px;
+    color: #413960;
+}
+
+#online-course{
+    font-family: 'Poppins', sans-serif;
+    max-width: 1165px;
+}
+
+#online-course h2{
+    color: #413960;
+}
+
+#online-course .card-group{
+    margin-left: -25px;
+}
+
+#online-course .card{
+    border: none;
+    box-shadow: 0px 10px 40px 0px #0000001A;
+    border-radius: 18px;
+}
+
+#online-course .buy-course{
+    background-color: #21B573;
+    border-radius: 33px;
+    width: 137px;
+    height: 35px;
+}
+
+#online-course h5{
+    color:#413960;
+}
+
+#online-course .row img{
+    width: 30px;
+    height: 30px;
+}
+
+#online-course .row p{
+    color:#585859;
+    font-weight: 500;
+}
+
+#testimonial{
+    font-family: 'Poppins', sans-serif;
+}
+
+#testimonial .d-flex{
+    padding-left: 205px;
+    padding-right: 50px;
+}
+
+#testimonial .d-flex p{
+    color: #000000;
+}
+
+footer{
+    background-color: #282531;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+footer .millions{
+    width: 370px;
+}
+
+footer .check{
+    margin-left: -60px;
+}
+
+.footer-bottom{
+    font-family: 'Poppins', sans-serif;
+    background-color: #282531;
+}
